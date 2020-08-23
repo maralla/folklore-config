@@ -1,0 +1,6 @@
+app_name: echo
+app: echo:service
+settings: settings
+thrift_file: tests/echo.thrift
+requirements: requirements.txt
+thrift_protocol_class: settings.DemoClass
